@@ -3,7 +3,7 @@
 
 
 
-#[Project Description]
+# [Project Description]
 
 ## Assignment 3 - Paxos
 
