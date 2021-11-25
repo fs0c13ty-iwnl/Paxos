@@ -1,9 +1,6 @@
  //*********************************************************//
  //            Distributed Systems  Assignment 3            //
  //    Filename     -   sample_output.txt                   //
- //    Author       -   Songzhe Li                          //
- //    Student ID   -   a1767109                            //
- //    E-mail       -   a1767109@student.adelaide.edu.au    //
  //*********************************************************//
 
 *** This file will include the following outcomes of tests ***
