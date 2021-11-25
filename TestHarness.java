@@ -1,9 +1,6 @@
 //*********************************************************//
 //            Distributed Systems  Assignment 3            //
 //    Filename     -   TestHarness.java                    //
-//    Author       -   Songzhe Li                          //
-//    Student ID   -   a1767109                            //
-//    E-mail       -   a1767109@student.adelaide.edu.au    //
 //*********************************************************//
 import java.util.Arrays;
 import java.util.List;
