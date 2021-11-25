@@ -1,0 +1,1207 @@
+ //*********************************************************//
+ //            Distributed Systems  Assignment 3            //
+ //    Filename     -   sample_output.txt                   //
+ //    Author       -   Songzhe Li                          //
+ //    Student ID   -   a1767109                            //
+ //    E-mail       -   a1767109@student.adelaide.edu.au    //
+ //*********************************************************//
+
+*** This file will include the following outcomes of tests ***
+
+1. Fundamental Tests: TestHarness (Server side & Client side)
+2. Bonus Tests: TestHarnessN (Server side & Client side)
+
+##########################################################################
+
+1. TestHarness
+***********
+Server Side
+***********
+[The Server Has Initiated!]
+[Waiting for Votes ... ...]
+
+[Current Time] 0
+M2 Proposal Received
+M2 Proposal Accepted
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M2 Proposal Received
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Received
+M3 Proposal Accepted
+[Current Time] 0
+M4 Proposal Received
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Received
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Received
+M6 Proposal Accepted
+[Current Time] 0
+M7 Proposal Received
+M7 Proposal Accepted
+[Current Time] 0
+M8 Proposal Received
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Received
+M9 Proposal Rejected
+[Current Time] 9
+M1 Proposal Received
+M1 Proposal Rejected
+[Current Time] 9
+M2 Proposal Received
+M2 Proposal Rejected
+[Current Time] 9
+M1 Proposal Received
+M1 Proposal Rejected
+[Current Time] 9
+M2 Proposal Received
+M2 Proposal Rejected
+[Current Time] 9
+M3 Proposal Received
+M3 Proposal Accepted
+[Current Time] 9
+M4 Proposal Received
+M4 Proposal Accepted
+[Current Time] 9
+M5 Proposal Received
+M5 Proposal Accepted
+[Current Time] 9
+M6 Proposal Received
+M6 Proposal Rejected
+[Current Time] 9
+M7 Proposal Received
+M7 Proposal Rejected
+[Current Time] 9
+M8 Proposal Received
+M8 Proposal Accepted
+[Current Time] 3
+M2 Proposal Rejected
+[Current Time] 3
+M2 Proposal Rejected
+[Current Time] 3
+M3 Proposal Rejected
+[Current Time] 3
+M4 Proposal Rejected
+[Current Time] 3
+M5 Proposal Rejected
+[Current Time] 3
+M6 Proposal Rejected
+[Current Time] 3
+M7 Proposal Rejected
+[Current Time] 3
+M8 Proposal Rejected
+[Current Time] 3
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 4
+M2 Proposal Rejected
+[Current Time] 4
+M2 Proposal Rejected
+[Current Time] 4
+M3 Proposal Rejected
+[Current Time] 4
+M4 Proposal Rejected
+[Current Time] 4
+M5 Proposal Rejected
+[Current Time] 4
+M6 Proposal Rejected
+[Current Time] 4
+M7 Proposal Rejected
+[Current Time] 4
+M8 Proposal Rejected
+[Current Time] 4
+M9 Proposal Received
+M9 Proposal Rejected
+[Current Time] 5
+M2 Proposal Rejected
+[Current Time] 5
+M2 Proposal Rejected
+[Current Time] 5
+M3 Proposal Rejected
+[Current Time] 5
+M4 Proposal Rejected
+[Current Time] 5
+M5 Proposal Rejected
+[Current Time] 5
+M6 Proposal Rejected
+[Current Time] 5
+M7 Proposal Rejected
+[Current Time] 5
+M8 Proposal Rejected
+[Current Time] 5
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 6
+M2 Proposal Rejected
+[Current Time] 6
+M2 Proposal Rejected
+[Current Time] 6
+M3 Proposal Rejected
+[Current Time] 6
+M4 Proposal Rejected
+[Current Time] 6
+M5 Proposal Rejected
+[Current Time] 6
+M6 Proposal Rejected
+[Current Time] 6
+M7 Proposal Rejected
+[Current Time] 6
+M8 Proposal Rejected
+[Current Time] 6
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 7
+M2 Proposal Rejected
+[Current Time] 7
+M2 Proposal Rejected
+[Current Time] 7
+M3 Proposal Rejected
+[Current Time] 7
+M4 Proposal Rejected
+[Current Time] 7
+M5 Proposal Rejected
+[Current Time] 7
+M6 Proposal Rejected
+[Current Time] 7
+M7 Proposal Rejected
+[Current Time] 7
+M8 Proposal Rejected
+[Current Time] 7
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 8
+M2 Proposal Rejected
+[Current Time] 8
+M2 Proposal Rejected
+[Current Time] 8
+M3 Proposal Rejected
+[Current Time] 8
+M4 Proposal Rejected
+[Current Time] 8
+M5 Proposal Rejected
+[Current Time] 8
+M6 Proposal Rejected
+[Current Time] 8
+M7 Proposal Rejected
+[Current Time] 8
+M8 Proposal Rejected
+[Current Time] 8
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 9
+M2 Proposal Rejected
+[Current Time] 9
+M2 Proposal Rejected
+[Current Time] 9
+M3 Proposal Rejected
+[Current Time] 9
+M4 Proposal Rejected
+[Current Time] 9
+M5 Proposal Rejected
+[Current Time] 9
+M6 Proposal Rejected
+[Current Time] 9
+M7 Proposal Rejected
+[Current Time] 9
+M8 Proposal Rejected
+[Current Time] 9
+M9 Proposal Received
+M9 Proposal Rejected
+[Current Time] 10
+M2 Proposal Received
+M2 Proposal Rejected
+[Current Time] 10
+M2 Proposal Received
+M2 Proposal Accepted
+[Current Time] 10
+M3 Proposal Received
+M3 Proposal Accepted
+[Current Time] 10
+M4 Proposal Received
+M4 Proposal Accepted
+[Current Time] 10
+M5 Proposal Received
+M5 Proposal Accepted
+[Current Time] 10
+M6 Proposal Received
+M6 Proposal Rejected
+[Current Time] 10
+M7 Proposal Received
+M7 Proposal Accepted
+[Current Time] 10
+M8 Proposal Received
+M8 Proposal Rejected
+[Current Time] 10
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Rejected
+[Current Time] 0
+M2 Proposal Received
+M2 Proposal Accepted
+[Current Time] 0
+M3 Proposal Received
+M3 Proposal Accepted
+[Current Time] 0
+M4 Proposal Received
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Received
+M5 Proposal Accepted
+[Current Time] 0
+M6 Proposal Received
+M6 Proposal Accepted
+[Current Time] 0
+M7 Proposal Received
+M7 Proposal Accepted
+[Current Time] 0
+M8 Proposal Received
+M8 Proposal Accepted
+[Current Time] 0
+M9 Proposal Received
+M9 Proposal Rejected
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Rejected
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Rejected
+[Current Time] 0
+M2 Proposal Lost!
+[Current Time] 0
+M3 Proposal Lost!
+[Current Time] 0
+M4 Proposal Lost!
+[Current Time] 0
+M5 Proposal Lost!
+[Current Time] 0
+M6 Proposal Lost!
+[Current Time] 0
+M7 Proposal Received
+M7 Proposal Accepted
+[Current Time] 0
+M8 Proposal Received
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Lost!
+[Current Time] 3
+M1 Proposal Rejected
+[Current Time] 3
+M2 Proposal Rejected
+[Current Time] 3
+M1 Proposal Rejected
+[Current Time] 3
+M2 Proposal Rejected
+[Current Time] 3
+M4 Proposal Rejected
+[Current Time] 3
+M5 Proposal Rejected
+[Current Time] 3
+M6 Proposal Rejected
+[Current Time] 3
+M7 Proposal Rejected
+[Current Time] 3
+M8 Proposal Rejected
+[Current Time] 3
+M9 Proposal Rejected
+[Current Time] 3
+M1 Proposal Received
+M1 Proposal Accepted
+[Current Time] 3
+M2 Proposal Received
+M2 Proposal Rejected
+[Current Time] 3
+M4 Proposal Received
+M4 Proposal Accepted
+[Current Time] 3
+M5 Proposal Received
+M5 Proposal Accepted
+[Current Time] 3
+M6 Proposal Received
+M6 Proposal Accepted
+[Current Time] 3
+M7 Proposal Received
+M7 Proposal Rejected
+[Current Time] 3
+M8 Proposal Received
+M8 Proposal Accepted
+[Current Time] 3
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 3
+M1 Proposal Received
+M1 Proposal Accepted
+[Current Time] 3
+M2 Proposal Received
+M2 Proposal Accepted
+[Current Time] 3
+M4 Proposal Received
+M4 Proposal Accepted
+[Current Time] 3
+M5 Proposal Lost!
+[Current Time] 3
+M6 Proposal Received
+M6 Proposal Rejected
+[Current Time] 3
+M7 Proposal Received
+M7 Proposal Rejected
+[Current Time] 3
+M8 Proposal Received
+M8 Proposal Rejected
+[Current Time] 3
+M9 Proposal Lost!
+
+
+***********
+Client Side
+***********
+>> java TestHarness
+****************************** TEST 1 BEGIN ******************************
+
+M1 and M2 will propose immediately at the same time
+
+[Session]       1
+[Proposal]      M1 is eligible to become council president! Total Time: 0
+
+[Election Completed After 1 Sessions]
+
+[FINAL RESULT]  M1 is eligible to become council president! Total Time: 0
+
+***************************** TEST 1 COMPLETE ****************************
+
+****************************** TEST 2 BEGIN ******************************
+
+M1-M9 have immediate responses to voting queries;
+None of them will lose proposals
+
+[Session]       1
+[Proposal]      M1 is eligible to become council president! Total Time: 0
+[Session1]	Failed! VOTES Are Less Than The Majority
+[Session]       2
+[Proposal]      M9 is eligible to become council president! Total Time: 9
+[Session2]	Failed! VOTES Are Less Than The Majority
+[Session]       3
+[Proposal]      M1 is eligible to become council president! Total Time: 3
+[Session3]	Failed! Not Enough VOTES
+[Session]       4
+[Proposal]      M1 is eligible to become council president! Total Time: 4
+[Session4]	Failed! Not Enough VOTES
+[Session]       5
+[Proposal]      M1 is eligible to become council president! Total Time: 5
+[Session5]	Failed! Not Enough VOTES
+[Session]       6
+[Proposal]      M1 is eligible to become council president! Total Time: 6
+[Session6]	Failed! Not Enough VOTES
+[Session]       7
+[Proposal]      M1 is eligible to become council president! Total Time: 7
+[Session7]	Failed! Not Enough VOTES
+[Session]       8
+[Proposal]      M1 is eligible to become council president! Total Time: 8
+[Session8]	Failed! Not Enough VOTES
+[Session]       9
+[Proposal]      M1 is eligible to become council president! Total Time: 9
+[Session9]	Failed! Not Enough VOTES
+[Session]       10
+[Proposal]      M1 is eligible to become council president! Total Time: 10
+
+[Election Completed After 10 Sessions]
+
+[FINAL RESULT]  M1 is eligible to become council president! Total Time: 10
+
+***************************** TEST 2 COMPLETE ****************************
+
+****************************** TEST 3 BEGIN ******************************
+
+M1 & M2 propose at the same time, The others will participate the election;
+None of them will lose proposals
+
+[Session]       1
+[Proposal]      M1 is eligible to become council president! Total Time: 0
+
+[Election Completed After 1 Sessions]
+
+[FINAL RESULT]  M1 is eligible to become council president! Total Time: 0
+
+***************************** TEST 3 COMPLETE ****************************
+
+****************************** TEST 4 BEGIN ******************************
+
+M1 have immediate response;
+M2 or M3 propose and then go offline, M3 has higher chance to lose proposals;
+M4-M9 fairly busy and their response times will vary;
+
+[Session]       1
+[Proposal]      M1 is eligible to become council president! Total Time: 0
+[Session1]	Failed! Not Enough VOTES
+[Session]       2
+[Proposal]      M3 is eligible to become council president! Total Time: 3
+
+[Election Completed After 2 Sessions]
+
+[FINAL RESULT]  M3 is eligible to become council president! Total Time: 3
+
+***************************** TEST 4 COMPLETE ****************************
+
+>> 
+
+##########################################################################
+2. TestHarnessN
+*NOTE* The number of members can be set to the number you want, This test use 15 as example
+
+***********
+Server Side
+***********
+[The Server Has Initiated!]
+[Waiting for Votes ... ...]
+
+[Current Time] 0
+M2 Proposal Received
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Received
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Received
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Received
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Received
+M6 Proposal Accepted
+[Current Time] 0
+M7 Proposal Received
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Received
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 0
+M10 Proposal Received
+M10 Proposal Rejected
+[Current Time] 0
+M11 Proposal Received
+M11 Proposal Accepted
+[Current Time] 0
+M12 Proposal Received
+M12 Proposal Accepted
+[Current Time] 0
+M13 Proposal Received
+M13 Proposal Accepted
+[Current Time] 0
+M14 Proposal Received
+M14 Proposal Rejected
+[Current Time] 0
+M15 Proposal Received
+M15 Proposal Rejected
+[Current Time] 6
+M1 Proposal Received
+M1 Proposal Accepted
+[Current Time] 6
+M2 Proposal Received
+M2 Proposal Accepted
+[Current Time] 6
+M3 Proposal Received
+M3 Proposal Rejected
+[Current Time] 6
+M4 Proposal Received
+M4 Proposal Accepted
+[Current Time] 6
+M5 Proposal Received
+M5 Proposal Accepted
+[Current Time] 6
+M7 Proposal Received
+M7 Proposal Rejected
+[Current Time] 6
+M8 Proposal Received
+M8 Proposal Accepted
+[Current Time] 6
+M9 Proposal Received
+M9 Proposal Rejected
+[Current Time] 6
+M10 Proposal Received
+M10 Proposal Accepted
+[Current Time] 6
+M11 Proposal Received
+M11 Proposal Accepted
+[Current Time] 6
+M12 Proposal Received
+M12 Proposal Rejected
+[Current Time] 6
+M13 Proposal Received
+M13 Proposal Accepted
+[Current Time] 6
+M14 Proposal Received
+M14 Proposal Rejected
+[Current Time] 6
+M15 Proposal Received
+M15 Proposal Rejected
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Rejected
+[Current Time] 0
+M10 Proposal Rejected
+[Current Time] 0
+M11 Proposal Rejected
+[Current Time] 0
+M12 Proposal Rejected
+[Current Time] 0
+M13 Proposal Rejected
+[Current Time] 0
+M14 Proposal Rejected
+[Current Time] 0
+M15 Proposal Rejected
+[Current Time] 0
+M2 Proposal Received
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Received
+M3 Proposal Accepted
+[Current Time] 0
+M4 Proposal Received
+M4 Proposal Accepted
+[Current Time] 0
+M5 Proposal Received
+M5 Proposal Accepted
+[Current Time] 0
+M6 Proposal Received
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Received
+M7 Proposal Accepted
+[Current Time] 0
+M8 Proposal Received
+M8 Proposal Accepted
+[Current Time] 0
+M9 Proposal Received
+M9 Proposal Rejected
+[Current Time] 0
+M10 Proposal Received
+M10 Proposal Rejected
+[Current Time] 0
+M11 Proposal Received
+M11 Proposal Rejected
+[Current Time] 0
+M12 Proposal Received
+M12 Proposal Accepted
+[Current Time] 0
+M13 Proposal Received
+M13 Proposal Accepted
+[Current Time] 0
+M14 Proposal Received
+M14 Proposal Rejected
+[Current Time] 0
+M15 Proposal Received
+M15 Proposal Accepted
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Rejected
+[Current Time] 0
+M10 Proposal Rejected
+[Current Time] 0
+M11 Proposal Rejected
+[Current Time] 0
+M12 Proposal Rejected
+[Current Time] 0
+M13 Proposal Rejected
+[Current Time] 0
+M14 Proposal Rejected
+[Current Time] 0
+M15 Proposal Rejected
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Rejected
+[Current Time] 0
+M10 Proposal Rejected
+[Current Time] 0
+M11 Proposal Rejected
+[Current Time] 0
+M12 Proposal Rejected
+[Current Time] 0
+M13 Proposal Rejected
+[Current Time] 0
+M14 Proposal Rejected
+[Current Time] 0
+M15 Proposal Rejected
+[Current Time] 0
+M2 Proposal Lost!
+[Current Time] 0
+M3 Proposal Lost!
+[Current Time] 0
+M4 Proposal Lost!
+[Current Time] 0
+M5 Proposal Lost!
+[Current Time] 0
+M6 Proposal Received
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Lost!
+[Current Time] 0
+M8 Proposal Received
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Lost!
+[Current Time] 0
+M10 Proposal Lost!
+[Current Time] 0
+M11 Proposal Received
+M11 Proposal Rejected
+[Current Time] 0
+M12 Proposal Received
+M12 Proposal Rejected
+[Current Time] 0
+M13 Proposal Received
+M13 Proposal Rejected
+[Current Time] 0
+M14 Proposal Received
+M14 Proposal Accepted
+[Current Time] 0
+M15 Proposal Received
+M15 Proposal Accepted
+[Current Time] 14
+M1 Proposal Received
+M1 Proposal Accepted
+[Current Time] 14
+M2 Proposal Received
+M2 Proposal Accepted
+[Current Time] 14
+M3 Proposal Received
+M3 Proposal Rejected
+[Current Time] 14
+M4 Proposal Received
+M4 Proposal Accepted
+[Current Time] 14
+M5 Proposal Received
+M5 Proposal Accepted
+[Current Time] 14
+M6 Proposal Received
+M6 Proposal Rejected
+[Current Time] 14
+M7 Proposal Received
+M7 Proposal Accepted
+[Current Time] 14
+M8 Proposal Received
+M8 Proposal Accepted
+[Current Time] 14
+M9 Proposal Received
+M9 Proposal Rejected
+[Current Time] 14
+M10 Proposal Received
+M10 Proposal Rejected
+[Current Time] 14
+M11 Proposal Received
+M11 Proposal Rejected
+[Current Time] 14
+M12 Proposal Received
+M12 Proposal Accepted
+[Current Time] 14
+M13 Proposal Received
+M13 Proposal Rejected
+[Current Time] 14
+M15 Proposal Received
+M15 Proposal Rejected
+[Current Time] 14
+M1 Proposal Received
+M1 Proposal Rejected
+[Current Time] 14
+M2 Proposal Received
+M2 Proposal Accepted
+[Current Time] 14
+M3 Proposal Received
+M3 Proposal Rejected
+[Current Time] 14
+M4 Proposal Received
+M4 Proposal Accepted
+[Current Time] 14
+M5 Proposal Received
+M5 Proposal Accepted
+[Current Time] 14
+M6 Proposal Received
+M6 Proposal Rejected
+[Current Time] 14
+M7 Proposal Received
+M7 Proposal Rejected
+[Current Time] 14
+M8 Proposal Received
+M8 Proposal Accepted
+[Current Time] 14
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 14
+M10 Proposal Received
+M10 Proposal Accepted
+[Current Time] 14
+M11 Proposal Received
+M11 Proposal Accepted
+[Current Time] 14
+M12 Proposal Received
+M12 Proposal Rejected
+[Current Time] 14
+M13 Proposal Received
+M13 Proposal Accepted
+[Current Time] 14
+M15 Proposal Received
+M15 Proposal Accepted
+[Current Time] 14
+M1 Proposal Received
+M1 Proposal Rejected
+[Current Time] 14
+M2 Proposal Lost!
+[Current Time] 14
+M3 Proposal Lost!
+[Current Time] 14
+M4 Proposal Lost!
+[Current Time] 14
+M5 Proposal Received
+M5 Proposal Rejected
+[Current Time] 14
+M6 Proposal Received
+M6 Proposal Accepted
+[Current Time] 14
+M7 Proposal Lost!
+[Current Time] 14
+M8 Proposal Lost!
+[Current Time] 14
+M9 Proposal Lost!
+[Current Time] 14
+M10 Proposal Received
+M10 Proposal Accepted
+[Current Time] 14
+M11 Proposal Received
+M11 Proposal Accepted
+[Current Time] 14
+M12 Proposal Received
+M12 Proposal Accepted
+[Current Time] 14
+M13 Proposal Received
+M13 Proposal Accepted
+[Current Time] 14
+M15 Proposal Lost!
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Rejected
+[Current Time] 0
+M10 Proposal Rejected
+[Current Time] 0
+M11 Proposal Rejected
+[Current Time] 0
+M12 Proposal Rejected
+[Current Time] 0
+M13 Proposal Rejected
+[Current Time] 0
+M14 Proposal Rejected
+[Current Time] 0
+M15 Proposal Rejected
+[Current Time] 0
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Rejected
+[Current Time] 0
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Rejected
+[Current Time] 0
+M9 Proposal Rejected
+[Current Time] 0
+M10 Proposal Rejected
+[Current Time] 0
+M11 Proposal Rejected
+[Current Time] 0
+M12 Proposal Rejected
+[Current Time] 0
+M13 Proposal Rejected
+[Current Time] 0
+M14 Proposal Rejected
+[Current Time] 0
+M15 Proposal Rejected
+[Current Time] 0
+M2 Proposal Received
+M2 Proposal Accepted
+[Current Time] 0
+M3 Proposal Lost!
+[Current Time] 0
+M4 Proposal Received
+M4 Proposal Rejected
+[Current Time] 0
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Lost!
+[Current Time] 0
+M7 Proposal Received
+M7 Proposal Accepted
+[Current Time] 0
+M8 Proposal Lost!
+[Current Time] 0
+M9 Proposal Lost!
+[Current Time] 0
+M10 Proposal Rejected
+[Current Time] 0
+M11 Proposal Lost!
+[Current Time] 0
+M12 Proposal Rejected
+[Current Time] 0
+M13 Proposal Lost!
+[Current Time] 0
+M14 Proposal Lost!
+[Current Time] 0
+M15 Proposal Lost!
+[Current Time] 0
+M2 Proposal Received
+M2 Proposal Rejected
+[Current Time] 0
+M3 Proposal Lost!
+[Current Time] 0
+M4 Proposal Lost!
+[Current Time] 0
+M5 Proposal Received
+M5 Proposal Rejected
+[Current Time] 0
+M6 Proposal Received
+M6 Proposal Rejected
+[Current Time] 0
+M7 Proposal Received
+M7 Proposal Rejected
+[Current Time] 0
+M8 Proposal Received
+M8 Proposal Accepted
+[Current Time] 0
+M9 Proposal Lost!
+[Current Time] 0
+M10 Proposal Lost!
+[Current Time] 0
+M11 Proposal Lost!
+[Current Time] 0
+M12 Proposal Received
+M12 Proposal Accepted
+[Current Time] 0
+M13 Proposal Lost!
+[Current Time] 0
+M14 Proposal Received
+M14 Proposal Accepted
+[Current Time] 0
+M15 Proposal Received
+M15 Proposal Accepted
+[Current Time] 2
+M2 Proposal Rejected
+[Current Time] 2
+M3 Proposal Rejected
+[Current Time] 2
+M4 Proposal Rejected
+[Current Time] 2
+M5 Proposal Rejected
+[Current Time] 2
+M6 Proposal Rejected
+[Current Time] 2
+M7 Proposal Rejected
+[Current Time] 2
+M8 Proposal Rejected
+[Current Time] 2
+M9 Proposal Rejected
+[Current Time] 2
+M10 Proposal Rejected
+[Current Time] 2
+M11 Proposal Rejected
+[Current Time] 2
+M12 Proposal Rejected
+[Current Time] 2
+M13 Proposal Rejected
+[Current Time] 2
+M14 Proposal Rejected
+[Current Time] 2
+M15 Proposal Rejected
+[Current Time] 2
+M2 Proposal Rejected
+[Current Time] 2
+M3 Proposal Rejected
+[Current Time] 2
+M4 Proposal Rejected
+[Current Time] 2
+M5 Proposal Rejected
+[Current Time] 2
+M6 Proposal Rejected
+[Current Time] 2
+M7 Proposal Rejected
+[Current Time] 2
+M8 Proposal Rejected
+[Current Time] 2
+M9 Proposal Rejected
+[Current Time] 2
+M10 Proposal Rejected
+[Current Time] 2
+M11 Proposal Rejected
+[Current Time] 2
+M12 Proposal Rejected
+[Current Time] 2
+M13 Proposal Rejected
+[Current Time] 2
+M14 Proposal Received
+M14 Proposal Accepted
+[Current Time] 2
+M15 Proposal Rejected
+[Current Time] 2
+M2 Proposal Lost!
+[Current Time] 2
+M3 Proposal Received
+M3 Proposal Accepted
+[Current Time] 2
+M4 Proposal Received
+M4 Proposal Rejected
+[Current Time] 2
+M5 Proposal Lost!
+[Current Time] 2
+M6 Proposal Lost!
+[Current Time] 2
+M7 Proposal Lost!
+[Current Time] 2
+M8 Proposal Received
+M8 Proposal Rejected
+[Current Time] 2
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 2
+M10 Proposal Lost!
+[Current Time] 2
+M11 Proposal Lost!
+[Current Time] 2
+M12 Proposal Rejected
+[Current Time] 2
+M13 Proposal Lost!
+[Current Time] 2
+M14 Proposal Lost!
+[Current Time] 2
+M15 Proposal Received
+M15 Proposal Rejected
+[Current Time] 2
+M2 Proposal Lost!
+[Current Time] 2
+M3 Proposal Lost!
+[Current Time] 2
+M4 Proposal Lost!
+[Current Time] 2
+M5 Proposal Received
+M5 Proposal Rejected
+[Current Time] 2
+M6 Proposal Received
+M6 Proposal Accepted
+[Current Time] 2
+M7 Proposal Received
+M7 Proposal Rejected
+[Current Time] 2
+M8 Proposal Received
+M8 Proposal Rejected
+[Current Time] 2
+M9 Proposal Received
+M9 Proposal Accepted
+[Current Time] 2
+M10 Proposal Lost!
+[Current Time] 2
+M11 Proposal Lost!
+[Current Time] 2
+M12 Proposal Received
+M12 Proposal Accepted
+[Current Time] 2
+M13 Proposal Received
+M13 Proposal Accepted
+[Current Time] 2
+M14 Proposal Received
+M14 Proposal Accepted
+[Current Time] 2
+M15 Proposal Received
+M15 Proposal Accepted
+
+
+***********
+Client Side
+***********
+>> java TestHarnessN 15
+****************************** TEST 1 BEGIN ******************************
+
+M1-M9 have immediate responses to voting queries, none of them will lose proposals
+
+[Session]       1
+[Proposal]      M1 is eligible to become council president! Total Time: 0
+[Session1]	Failed! VOTES Are Less Than The Majority
+[Session]       2
+[Proposal]      M6 is eligible to become council president! Total Time: 6
+
+[Election Completed After 2 Sessions]
+
+[FINAL RESULT]  M6 is eligible to become council president! Total Time: 6
+
+***************************** TEST 1 COMPLETE ****************************
+
+****************************** TEST 2 BEGIN ******************************
+
+M1 & M2 propose at the same time, The others will participate the election;
+None of them will lose proposals
+
+[Session]       1
+[Proposal]      M1 is eligible to become council president! Total Time: 0
+
+[Election Completed After 1 Sessions]
+
+[FINAL RESULT]  M1 is eligible to become council president! Total Time: 0
+
+***************************** TEST 2 COMPLETE ****************************
+
+****************************** TEST 3 BEGIN ******************************
+
+M1 have immediate response;
+M2 or M3 propose and then go offline, M3 has higher chance to lose proposals;
+M4-M9 fairly busy and their response times will vary;
+
+[Session]       1
+[Proposal]      M1 is eligible to become council president! Total Time: 0
+[Session1]	Failed! Not Enough VOTES
+[Session]       2
+[Proposal]      M14 is eligible to become council president! Total Time: 14
+
+[Election Completed After 2 Sessions]
+
+[FINAL RESULT]  M14 is eligible to become council president! Total Time: 14
+
+***************************** TEST 3 COMPLETE ****************************
+
+****************************** TEST 4 BEGIN ******************************
+
+M1 have immediate response;
+M2 has high latency and may lose proposals (even go offline)
+M3 has higher change to lose proposals, high possibility to lose proposals
+M4 has latency but lower than M2, may never make/respond to proposals;
+M5-M9 fairly busy and their response times will vary;
+
+[Session]       1
+[Proposal]      M1 is eligible to become council president! Total Time: 0
+[Session1]	Failed! VOTES Are Less Than The Majority
+[Session]       2
+[Proposal]      M1 is eligible to become council president! Total Time: 2
+
+[Election Completed After 2 Sessions]
+
+[FINAL RESULT]  M1 is eligible to become council president! Total Time: 2
+
+***************************** TEST 4 COMPLETE ****************************
+
+>> 
+
+
+
+
+
+
+
+
+
+
+END OF THIS FILE
+##########################################################################
+

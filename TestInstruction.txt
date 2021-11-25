@@ -1,0 +1,56 @@
+ //*********************************************************//
+ //            Distributed Systems  Assignment 3            //
+ //    Filename     -   readme.txt                          //
+ //    Author       -   Songzhe Li                          //
+ //    Student ID   -   a1767109                            //
+ //    E-mail       -   a1767109@student.adelaide.edu.au    //
+ //*********************************************************//
+
+*** Included Files ***
+
+CouncilElection.java	TestHarness.java	
+Leader.java		TestHarnessN.java
+SocketService.java	readme.txt	
+startServer.sh		runTest.sh
+sample_output.txt
+
+
+*** Test Instructions ***
+
+ *NOTE* The program will run on Port 8080, please make sure the port is free before testing
+
+ ** You can apply mutiple tests if you want **
+
+ Step 1 Open one terminal, Copy & paste the following command to compile files and start server
+ % ./startServer.sh
+ (You can also compile and test mannualy in this step, using % javac *.java and % java SocketService)
+
+ Step 2 Open another terminal, use the following command to apply fundamental tests
+ % ./runTest. OR % java TestHarness
+
+ *** Bonus Tests ***
+ Setp 3 Using the following commands in terminal 2 to run Bonus Tests
+ % java TestHarnessN 9 
+ (9 is the number you can choose, for example, java TestHarnessN 15, This will created 15 members in the test.)
+
+
+*** Explanation *** 
+
+- TestHarness and TestHarnessN are very similar in most of the tests, and they use the same paxos algorithm. 
+
+- Accoridng to the given profile, since M1 is most responsive, there is a high possibility that you see M1 win the election.
+
+- The four tests designed in TestHarness will test the basic functionality of the paxos implementation in accordance with the ‘Assessment’ section on the assignment page. 
+
+- TestHarnessN is the test for bonus assessments, prooving that the paxos implementation can work when there are ’N’ councilors. When testing, you can determine the number of councilors in the testing command: % java TestHarnessN X, the X is where you can choose a numbers. 
+
+- Terminal that runs the server will show the process election, and what happens to each proposal.
+
+- Terminal that execute tests will show the results of each election session, and the final result.
+
+
+
+
+
+
+
